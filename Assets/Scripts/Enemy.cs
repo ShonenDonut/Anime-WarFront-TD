@@ -1,47 +1,63 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    [SerializeField] private float movespeed = 2f;
+    public Transform[] waypoints;
+    public float speed = 2f;
+    public int health = 20;
+    public int reward = 10;
+    public int baseDamage = 1;
 
-    private Rigidbody2D rb;
-    private Transform checkpoint;
-    private int index = 0;
-
-    void Awake()
-    {
-        rb = GetComponent<Rigidbody2D>();
-    }
-
-    void Start()
-    {
-        checkpoint = EnemyManager.main.checkpoints[index];
-    }
+    private int waypointIndex = 0;
 
     void Update()
     {
-        if (Vector2.Distance(checkpoint.position, transform.position) <= 0.1f)
+        if (waypoints == null || waypoints.Length == 0)
+            return;
+
+        if (waypointIndex >= waypoints.Length)
         {
-            index++;
+            ReachBase();
+            return;
+        }
 
-            // Check if we've reached the end
-            if (index >= EnemyManager.main.checkpoints.Length)
-            {
-                Debug.Log("End reached");
-                rb.velocity = Vector2.zero;
-                return;
-            }
+        Transform target = waypoints[waypointIndex];
 
-            // Move to next checkpoint
-            checkpoint = EnemyManager.main.checkpoints[index];
+        transform.position = Vector2.MoveTowards(
+            transform.position,
+            target.position,
+            speed * Time.deltaTime
+        );
+
+        if (Vector2.Distance(transform.position, target.position) < 0.05f)
+        {
+            waypointIndex++;
         }
     }
 
-    void FixedUpdate()
+    public void TakeDamage(int damage)
     {
-        Vector2 direction = (checkpoint.position - transform.position).normalized;
-        rb.velocity = direction * movespeed;
+        health -= damage;
+
+        if (health <= 0)
+        {
+            if (GameManager.Instance != null)
+            {
+                GameManager.Instance.AddCurrency(reward);
+            }
+
+            Destroy(gameObject);
+            return;
+        }
+    }
+
+    private void ReachBase()
+    {
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.TakeBaseDamage(baseDamage);
+        }
+
+        Destroy(gameObject);
     }
 }
