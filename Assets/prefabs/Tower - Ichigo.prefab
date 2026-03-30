@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 1643206947939424623}
   - component: {fileID: 3067990286338323928}
   m_Layer: 0
-  m_Name: Tower
+  m_Name: Tower - Ichigo
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -75,8 +75,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0, g: 0.33439374, b: 1, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 0f2579d21c6db184b9acd92715da45a0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -135,4 +135,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   range: 3
   fireRate: 1
+  damage: 5
   projectilePrefab: {fileID: 3735633513835555991, guid: b0ead36703ba71c46b6f6c21257e1660, type: 3}
