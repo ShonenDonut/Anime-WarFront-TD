@@ -70,4 +70,11 @@ public class Tower : MonoBehaviour
             projectile.SetTarget(target);
         }
     }
+
+    //If clicked on after being placed, open Tower Upgrade Menu
+    void OnMouseDown()
+    {
+        TowerUpgradePanel.instance?.SetSelectedTower(this);
+        TowerUpgradePanel.instance?.OpenStore();
+    }
 }
