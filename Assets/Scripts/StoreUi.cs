@@ -19,7 +19,14 @@ public class StoreUI : MonoBehaviour
             storePanel.SetActive(true);
 
         RefreshUI();
-        Time.timeScale = 0f;
+
+        // =========================
+        // CHANGED:
+        // was: Time.timeScale = 0f;
+        // now: pause through GameManager
+        // =========================
+        if (GameManager.Instance != null)
+            GameManager.Instance.PauseForStore();
     }
 
     public void CloseStore()
@@ -27,7 +34,13 @@ public class StoreUI : MonoBehaviour
         if (storePanel != null)
             storePanel.SetActive(false);
 
-        Time.timeScale = 1f;
+        // =========================
+        // CHANGED:
+        // was: Time.timeScale = 1f;
+        // now: restore current speed (1x or 2x)
+        // =========================
+        if (GameManager.Instance != null)
+            GameManager.Instance.ResumeFromStore();
     }
 
     public void UpgradeDamage()

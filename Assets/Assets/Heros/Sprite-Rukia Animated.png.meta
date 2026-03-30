@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,9 +119,274 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 390
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff3beba95991640a320e9cc6ed15c1
+      internalID: 2073021115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 15
+        width: 387
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fcc576bc53c1f4ca095f1f49fe7e28
+      internalID: -1669820394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 15
+        width: 387
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea6940f342a2a4c841b70edb81a413
+      internalID: 365313776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_3
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 15
+        width: 405
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a70c3aa18949345986356af17daa89
+      internalID: 779313515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_4
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 15
+        width: 405
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daef38720f94934fb76dd267070979e
+      internalID: -1239752655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_5
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 15
+        width: 402
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72956a4d99bc844e97155e7583580f9
+      internalID: -467930660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_6
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 15
+        width: 405
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974d4f7eb8e0cb408bf06ceedff94b2
+      internalID: -1280048273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_7
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 15
+        width: 405
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1ddfac622ed404e8c052a642acbca4
+      internalID: 1229686441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_8
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 15
+        width: 402
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c82c8820a2a8745af2b0cd7ff9567f
+      internalID: -2138376287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_9
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 15
+        width: 405
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32df2df346c4bd459eeb34125950a03
+      internalID: 1282600524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_10
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 15
+        width: 405
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4224f3402eb089b4e8dcd4c62ee33f7e
+      internalID: 2065050770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-Rukia Animated_11
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 15
+        width: 402
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d931aae47701f41ac9790664e43866
+      internalID: -434910770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +397,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sprite-Rukia Animated_0: 2073021115
+      Sprite-Rukia Animated_1: -1669820394
+      Sprite-Rukia Animated_10: 2065050770
+      Sprite-Rukia Animated_11: -434910770
+      Sprite-Rukia Animated_2: 365313776
+      Sprite-Rukia Animated_3: 779313515
+      Sprite-Rukia Animated_4: -1239752655
+      Sprite-Rukia Animated_5: -467930660
+      Sprite-Rukia Animated_6: -1280048273
+      Sprite-Rukia Animated_7: 1229686441
+      Sprite-Rukia Animated_8: -2138376287
+      Sprite-Rukia Animated_9: 1282600524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

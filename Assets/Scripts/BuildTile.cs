@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class BuildTile : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class BuildTile : MonoBehaviour
 
     private void OnMouseDown()
     {
+        if(EventSystem.current.IsPointerOverGameObject()) return;
+        
         if (placedTower != null)
         {
             Debug.Log("This tile already has a tower.");
@@ -31,8 +34,8 @@ public class BuildTile : MonoBehaviour
             Debug.Log("Not enough currency.");
             return;
         }
-
-        placedTower = Instantiate(towerPrefab, transform.position, Quaternion.identity);
+        
+        placedTower = Instantiate(towerPrefab, transform.position, Quaternion.identity, TowerManager.instance.transform);
         GameManager.Instance.SpendCurrency(GameManager.Instance.basicTowerCost);
     }
 }
