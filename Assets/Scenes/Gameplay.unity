@@ -3286,6 +3286,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storePanel: {fileID: 496067209}
   currencyText: {fileID: 1364783437}
+  damageCostText: {fileID: 2115822357}
+  fireRateCostText: {fileID: 645707265}
   damageUpgradeCost: 50
   fireRateUpgradeCost: 50
 --- !u!4 &784827846

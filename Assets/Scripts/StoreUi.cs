@@ -9,9 +9,13 @@ public class StoreUI : MonoBehaviour
     [Header("UI Text")]
     public TMP_Text currencyText;
 
+    public TMP_Text damageCostText;
+    public TMP_Text fireRateCostText;
+    
     [Header("Upgrade Costs")]
     public int damageUpgradeCost = 50;
     public int fireRateUpgradeCost = 50;
+    
 
     public void OpenStore()
     {
@@ -68,5 +72,10 @@ public class StoreUI : MonoBehaviour
         {
             currencyText.text = "Currency: " + GameManager.Instance.currency;
         }
+        damageCostText.text = "Damage Cost: " + damageUpgradeCost;
+        fireRateCostText.text = "Fire Rate Cost: " + fireRateUpgradeCost;
     }
+    
+    public int GetFireRateUpgradeCost(){ return fireRateUpgradeCost; }
+    public int GetDamageUpgradeCost(){ return damageUpgradeCost; }
 }
