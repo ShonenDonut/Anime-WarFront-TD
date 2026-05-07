@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 7681c525cd005c84d871de6290f778ec
   - enabled: 1
-    path: Assets/Scenes/Gameplay.unity
+    path: Assets/Scenes/Gameplay_Forest.unity
     guid: df5e1376049177449bf9536902f0f137
   - enabled: 1
     path: Assets/Scenes/ShopMenu.unity
@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UnitsMenu.unity
     guid: 6e8af88baa608794bbffce2af1dc1d02
+  - enabled: 1
+    path: Assets/Scenes/MapSelect.unity
+    guid: abb52e58b3cc0914491c9107f165b693
+  - enabled: 1
+    path: Assets/Scenes/Gameplay_Desert.unity
+    guid: 4ecd0a14c147ae14c83fc24cccb1620b
+  - enabled: 1
+    path: Assets/Scenes/Gameplay_City.unity
+    guid: 18b9e0938ba3dd843b0cf4933dd9ff19
   m_configObjects: {}

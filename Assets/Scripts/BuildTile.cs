@@ -1,41 +1,46 @@
 using UnityEngine;
-using UnityEngine.EventSystems;
 
 public class BuildTile : MonoBehaviour
 {
-    [SerializeField] private GameObject towerPrefab;
-
     private GameObject placedTower;
 
     private void OnMouseDown()
     {
-        if(EventSystem.current.IsPointerOverGameObject()) return;
-        
         if (placedTower != null)
         {
             Debug.Log("This tile already has a tower.");
             return;
         }
 
+        if (TowerSelector.Instance == null)
+        {
+            Debug.LogWarning("TowerSelector is missing.");
+            return;
+        }
+
+        GameObject towerPrefab = TowerSelector.Instance.GetSelectedTowerPrefab();
+
         if (towerPrefab == null)
         {
-            Debug.LogWarning("Tower prefab is missing on " + gameObject.name);
+            Debug.LogWarning("Selected tower prefab is missing.");
             return;
         }
 
-        if (GameManager.Instance == null)
+        Tower towerData = towerPrefab.GetComponent<Tower>();
+
+        if (towerData == null)
         {
-            Debug.LogWarning("GameManager instance is missing.");
+            Debug.LogWarning("Selected prefab has no Tower script.");
             return;
         }
 
-        if (!GameManager.Instance.CanAffordTower())
+        if (GameManager.Instance.currency < towerData.cost)
         {
             Debug.Log("Not enough currency.");
             return;
         }
-        
-        placedTower = Instantiate(towerPrefab, transform.position, Quaternion.identity, TowerManager.instance.transform);
-        GameManager.Instance.SpendCurrency(GameManager.Instance.basicTowerCost);
+
+        GameManager.Instance.SpendCurrency(towerData.cost);
+        placedTower = Instantiate(towerPrefab, transform.position, Quaternion.identity);
     }
 }

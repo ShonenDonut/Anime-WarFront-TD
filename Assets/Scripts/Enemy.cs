@@ -2,8 +2,11 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    [Header("Movement")]
     public Transform[] waypoints;
     public float speed = 2f;
+
+    [Header("Stats")]
     public int health = 20;
     public int reward = 10;
     public int baseDamage = 1;
@@ -33,6 +36,13 @@ public class Enemy : MonoBehaviour
         {
             waypointIndex++;
         }
+    }
+
+    public void InitializeEnemy(int waveNumber)
+    {
+        health += waveNumber * 5;
+        speed += waveNumber * 0.1f;
+        reward += waveNumber * 2;
     }
 
     public void TakeDamage(int damage)

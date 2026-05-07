@@ -3,11 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuUI : MonoBehaviour
 {
-    [SerializeField] GameObject settingsPanel;
+    [SerializeField] private GameObject settingsPanel;
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("Gameplay");
+        SceneManager.LoadScene("MapSelect");
     }
 
     public void OpenShop()
@@ -20,13 +20,20 @@ public class MainMenuUI : MonoBehaviour
         SceneManager.LoadScene("UnitsMenu");
     }
 
+    public void OpenMapSelect()
+    {
+        SceneManager.LoadScene("MapSelect");
+    }
+
     public void OpenSettings()
     {
-        settingsPanel.SetActive(true);
+        if (settingsPanel != null)
+            settingsPanel.SetActive(true);
     }
 
     public void CloseSettings()
     {
-        settingsPanel.SetActive(false);
+        if (settingsPanel != null)
+            settingsPanel.SetActive(false);
     }
 }

@@ -6,6 +6,7 @@ public class Tower : MonoBehaviour
     public float range = 3f;
     public float fireRate = 1f;
     public int damage = 5;
+    public int cost = 25;
     public GameObject projectilePrefab;
 
     private float fireCountdown = 0f;
@@ -39,7 +40,6 @@ public class Tower : MonoBehaviour
     void FindTarget()
     {
         Enemy[] enemies = FindObjectsOfType<Enemy>();
-
         float shortestDistance = Mathf.Infinity;
         Enemy nearestEnemy = null;
 
@@ -69,12 +69,5 @@ public class Tower : MonoBehaviour
             projectile.damage = damage;
             projectile.SetTarget(target);
         }
-    }
-
-    //If clicked on after being placed, open Tower Upgrade Menu
-    void OnMouseDown()
-    {
-        TowerUpgradePanel.instance?.SetSelectedTower(this);
-        TowerUpgradePanel.instance?.OpenStore();
     }
 }
