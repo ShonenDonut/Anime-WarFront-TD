@@ -8,21 +8,34 @@ public class TowerSelector : MonoBehaviour
     public GameObject fastTowerPrefab;
     public GameObject strongTowerPrefab;
 
+    private GameObject selectedTowerPrefab;
+
     private void Awake()
     {
         Instance = this;
+        selectedTowerPrefab = basicTowerPrefab;
+    }
+
+    public void SelectBasicTower()
+    {
+        selectedTowerPrefab = basicTowerPrefab;
+        Debug.Log("Basic Tower selected");
+    }
+
+    public void SelectFastTower()
+    {
+        selectedTowerPrefab = fastTowerPrefab;
+        Debug.Log("Fast Tower selected");
+    }
+
+    public void SelectStrongTower()
+    {
+        selectedTowerPrefab = strongTowerPrefab;
+        Debug.Log("Strong Tower selected");
     }
 
     public GameObject GetSelectedTowerPrefab()
     {
-        string selectedTower = ShopData.GetSelectedTower();
-
-        if (selectedTower == "FastTower")
-            return fastTowerPrefab;
-
-        if (selectedTower == "StrongTower")
-            return strongTowerPrefab;
-
-        return basicTowerPrefab;
+        return selectedTowerPrefab;
     }
 }
