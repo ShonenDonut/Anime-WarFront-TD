@@ -33,21 +33,15 @@ public class TowerUpgradePanel : MonoBehaviour
 
     public void OpenStore()
     {
-        if (!storePanel) return;
+        if (storePanel == null) return;
 
         storePanel.SetActive(true);
-        storePanel.transform.position = OffsetPos();
-        
+
+        // Keep store centered instead of trying to move it beside a selected tower
+        storePanel.transform.localPosition = Vector3.zero;
+
         RefreshUI();
         Time.timeScale = 0f;
-    }
-    
-    private Vector3 OffsetPos()
-    {
-        return new Vector3(
-            Camera.main.WorldToScreenPoint(_selectedTower.transform.position).x + xOffset, 
-            Camera.main.WorldToScreenPoint(_selectedTower.transform.position).y + yOffset, 
-            0);
     }
 
     public void CloseStore()

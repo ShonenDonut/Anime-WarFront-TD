@@ -3,28 +3,73 @@ using UnityEngine;
 
 public class UnitCardUI : MonoBehaviour
 {
+    [Header("Unit Info")]
     [SerializeField] private string unitName;
+    [SerializeField] private int unitCost = 50;
+
+    [Header("UI")]
     [SerializeField] private TMP_Text statusText;
+    [SerializeField] private TMP_Text buttonText;
+    [SerializeField] private TMP_Text currencyText;
 
     private void Start()
     {
+        // Goku can be free/default if you want
+        if (unitName == "Goku")
+        {
+            UnitShopData.OwnUnit(unitName);
+        }
+
         Refresh();
     }
 
-    public void ToggleUnit()
+    public void BuyOrSelectUnit()
     {
-        if (UnitSelectionManager.Instance != null)
+        if (UnitShopData.IsUnitOwned(unitName))
         {
-            UnitSelectionManager.Instance.ToggleUnit(unitName);
+            UnitShopData.SelectUnit(unitName);
             Refresh();
+            return;
         }
+
+        if (!PlayerData.CanAfford(unitCost))
+        {
+            if (statusText != null)
+                statusText.text = "Not enough currency";
+
+            return;
+        }
+
+        PlayerData.SpendCurrency(unitCost);
+        UnitShopData.OwnUnit(unitName);
+        UnitShopData.SelectUnit(unitName);
+
+        Refresh();
     }
 
     public void Refresh()
     {
-        if (UnitSelectionManager.Instance == null || statusText == null) return;
+        bool owned = UnitShopData.IsUnitOwned(unitName);
+        bool selected = UnitShopData.GetSelectedUnit() == unitName;
 
-        bool isActive = UnitSelectionManager.Instance.IsUnitActive(unitName);
-        statusText.text = isActive ? "Active" : "Inactive";
+        if (statusText != null)
+        {
+            if (selected)
+                statusText.text = "Selected";
+            else if (owned)
+                statusText.text = "Owned";
+            else
+                statusText.text = "Cost: " + unitCost;
+        }
+
+        if (buttonText != null)
+        {
+            buttonText.text = owned ? "Select" : "Buy";
+        }
+
+        if (currencyText != null)
+        {
+            currencyText.text = "Currency: " + PlayerData.GetCurrency();
+        }
     }
 }
