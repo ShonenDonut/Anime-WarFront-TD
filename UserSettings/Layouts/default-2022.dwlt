@@ -751,14 +751,14 @@ MonoBehaviour:
       width: 1706.6666
       height: 884
     m_Scale: {x: 1.5, y: 1.5}
-    m_Translation: {x: 853.33325, y: 442}
+    m_Translation: {x: 853.3332, y: 442}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -568.88885
+      x: -568.8888
       y: -294.66666
       width: 1137.7777
       height: 589.3333
