@@ -15256,6 +15256,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: TowerUpgradePanel, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 2923411322128268997, guid: 99400397c40f02c4990358acfd3eeb60, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -18.444702
+      objectReference: {fileID: 0}
     - target: {fileID: 4117695006708388417, guid: 99400397c40f02c4990358acfd3eeb60, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
