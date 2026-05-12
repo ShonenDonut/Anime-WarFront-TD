@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class BuildTile : MonoBehaviour
 {
@@ -6,6 +7,8 @@ public class BuildTile : MonoBehaviour
 
     private void OnMouseDown()
     {
+        if (EventSystem.current.IsPointerOverGameObject()) return;
+        
         if (placedTower != null)
         {
             Debug.Log("This tile already has a tower.");

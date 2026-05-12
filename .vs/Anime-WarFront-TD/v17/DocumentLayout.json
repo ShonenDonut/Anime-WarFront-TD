@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MusicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MusicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StoreUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,80 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitShopData.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitShopData.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UnitShopData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T02:34:28.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerData.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T02:33:04.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StoreUI1.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreUI1.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StoreUI1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:57:37.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainMenuUi.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUi.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MainMenuUi.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:39:00.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Map Select UI.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Map Select UI.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Map Select UI.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:28:02.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MapSelectUI.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MapSelectUi.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MapSelectUi.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:24:55.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ShopData.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShopData.cs",
@@ -175,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TowerSelector.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TowerSelector.cs",
@@ -183,12 +118,11 @@
               "RelativeToolTip": "Assets\\Scripts\\TowerSelector.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAwwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T02:50:18.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T02:50:18.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UnitCardUi.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitCardUi.cs",
@@ -200,7 +134,114 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:33:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:18:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreUI1.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreUI1.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreUI1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:57:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitShopData.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitShopData.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitShopData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:34:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaveSpawner.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:53:52.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapSelectUI.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapSelectUi.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapSelectUi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:24:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Map Select UI.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map Select UI.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map Select UI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:28:02.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuUi.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUi.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUi.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:39:00.387Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenu.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsMenu.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:36:52.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TowerUpgradePanel.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TowerUpgradePanel.cs",
@@ -212,20 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingsMenu.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenu.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SettingsMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T05:15:26.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ShopMenuUI.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShopMenuUI.cs",
@@ -237,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "StoreUi.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StoreUi.cs",
@@ -249,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BuildTile.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuildTile.cs",
@@ -261,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
@@ -273,19 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WaveSpawner.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T18:53:52.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -297,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Tower.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tower.cs",
@@ -309,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ShopMenuManager.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShopMenuManager.cs",
@@ -321,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Projectile.cs",
               "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
