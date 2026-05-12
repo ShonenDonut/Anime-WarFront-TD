@@ -3233,7 +3233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 999b84820f56f9a45a40135a582e0ec0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 6134766720500439113, guid: f1dad0c2eb1819742ac060fa2a9c7ee9, type: 3}
+  enemyPrefab: {fileID: 6134766720500439113, guid: 54d47344774cbb04eac6c14ec3833e12, type: 3}
   spawnPoint: {fileID: 1431693325}
   waypoints:
   - {fileID: 1621244536}
