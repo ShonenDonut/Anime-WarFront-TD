@@ -1047,9 +1047,6 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -89, y: -24}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &612600457
@@ -3541,7 +3538,6 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 1.0000224, y: -99.99997}
-  m_AnchoredPosition: {x: 0, y: -95}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1826216713
@@ -3591,14 +3587,14 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1351771780}
         m_TargetAssemblyTypeName: SettingsMenu, Assembly-CSharp
         m_MethodName: SetVolume
-        m_Mode: 4
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3902,7 +3898,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1935154747}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ac4124a2b3c75b478d8ec6e4ae363ea, type: 3}
+  m_Script: {fileID: 11500000, guid: 821d842ac212d764baecd83da31f55a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mainMenuMusic: {fileID: 8300000, guid: 74c7e318d168b774e8b618c4f44b8cbb, type: 3}
@@ -4371,7 +4367,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -37.999817, y: 22.26207}
+  m_AnchoredPosition: {x: -37.999756, y: 22.262085}
   m_SizeDelta: {x: -748.6089, y: -391.2202}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2114708908
@@ -4595,3 +4591,4 @@ SceneRoots:
   - {fileID: 971467584}
   - {fileID: 976675254}
   - {fileID: 1351771781}
+  - {fileID: 1935154750}

@@ -1,85 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\",
+  "WorkspaceRootPath": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MenuManger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuManger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TowerUpgradePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UnitCardUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UnitShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainMenuUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StoreUI1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StoreUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Map Select UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MapSelectUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BuildTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TowerSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TowerUpgradePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UnitCardUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UnitShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainMenuUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StoreUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MapSelectUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BuildTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShopMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShopData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShopMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -95,36 +97,117 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SettingsMenu.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenu.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SettingsMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Title": "MenuManger.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MenuManger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManger.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MenuManger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManger.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwv0gAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T05:15:26.504Z",
+              "WhenOpened": "2026-05-12T05:41:28.083Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitShopData.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitShopData.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitShopData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:34:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:33:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreUI1.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
+              "RelativeToolTip": "..\\..\\..\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:57:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenuUi.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUi.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUi.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:39:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Map Select UI.cs",
+              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
+              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
+              "RelativeToolTip": "..\\..\\..\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:28:02.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MapSelectUi.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapSelectUi.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapSelectUi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T03:24:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopData.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopData.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:28:56.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TowerUpgradePanel.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerUpgradePanel.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TowerUpgradePanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Title": "TowerSelector.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerSelector.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerSelector.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T03:01:26.017Z",
+              "WhenOpened": "2026-05-07T02:50:18.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UnitCardUi.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitCardUi.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\UnitCardUi.cs",
               "RelativeToolTip": "Assets\\Scripts\\UnitCardUi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,91 +216,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UnitShopData.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitShopData.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\UnitShopData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UnitShopData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Title": "TowerUpgradePanel.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerUpgradePanel.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\TowerUpgradePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerUpgradePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T02:34:28.693Z"
+              "WhenOpened": "2026-05-11T03:01:26.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerData.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\PlayerData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenu.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\SettingsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T02:33:04.489Z"
+              "WhenOpened": "2026-05-11T05:15:26.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StoreUI1.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreUI1.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUI1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\StoreUI1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:57:37.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainMenuUi.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUi.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MainMenuUi.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MainMenuUi.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:39:00.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Map Select UI.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Map Select UI.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Map Select UI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Map Select UI.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:28:02.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MapSelectUI.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MapSelectUi.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\MapSelectUi.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MapSelectUi.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T03:24:55.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ShopData.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopData.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShopData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T02:28:56.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ShopMenuUI.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShopMenuUI.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShopMenuUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StoreUi.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StoreUi.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\StoreUi.cs",
               "RelativeToolTip": "Assets\\Scripts\\StoreUi.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BuildTile.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuildTile.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\BuildTile.cs",
               "RelativeToolTip": "Assets\\Scripts\\BuildTile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "WaveSpawner.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\WaveSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAQwEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,11 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAgwIgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Tower.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tower.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Tower.cs",
               "RelativeToolTip": "Assets\\Scripts\\Tower.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ShopMenuManager.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShopMenuManager.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\ShopMenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShopMenuManager.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,23 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TowerSelector.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerSelector.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\TowerSelector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TowerSelector.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T02:50:18.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Projectile.cs",
-              "DocumentMoniker": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs",
+              "DocumentMoniker": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
-              "ToolTip": "D:\\AnimeWarfront TD\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "D:\\Game Downloads\\clone anime td\\Anime-WarFront-TD\\Assets\\Scripts\\Projectile.cs",
               "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
