@@ -1044,15 +1044,12 @@ RectTransform:
   - {fileID: 2125533179}
   m_Father: {fileID: 2042449489}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -89, y: -24}
-=======
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
->>>>>>> parent of 9cd46b1 (music update)
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &612600457
@@ -3543,11 +3540,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 1.0000224, y: -99.99997}
-=======
   m_AnchoredPosition: {x: 0, y: -95}
->>>>>>> parent of 9cd46b1 (music update)
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1826216713
@@ -3881,7 +3875,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1848415368}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1935154747
 GameObject:
   m_ObjectHideFlags: 0
@@ -4227,8 +4220,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1962206540}
   m_CullTransparentMesh: 1
-=======
->>>>>>> parent of 9cd46b1 (music update)
 --- !u!1 &1998835453
 GameObject:
   m_ObjectHideFlags: 0
