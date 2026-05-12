@@ -1044,9 +1044,15 @@ RectTransform:
   - {fileID: 2125533179}
   m_Father: {fileID: 2042449489}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -89, y: -24}
+=======
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+>>>>>>> parent of 9cd46b1 (music update)
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &612600457
@@ -1287,7 +1293,7 @@ RectTransform:
   m_Father: {fileID: 1112668141}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2619,8 +2625,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 628870483}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3537,7 +3543,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 1.0000224, y: -99.99997}
+=======
+  m_AnchoredPosition: {x: 0, y: -95}
+>>>>>>> parent of 9cd46b1 (music update)
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1826216713
@@ -3587,14 +3597,14 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1351771780}
         m_TargetAssemblyTypeName: SettingsMenu, Assembly-CSharp
         m_MethodName: SetVolume
-        m_Mode: 0
+        m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3641,7 +3651,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Low
+  m_text: Graphics
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3871,6 +3881,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1848415368}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1935154747
 GameObject:
   m_ObjectHideFlags: 0
@@ -4216,6 +4227,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1962206540}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of 9cd46b1 (music update)
 --- !u!1 &1998835453
 GameObject:
   m_ObjectHideFlags: 0
@@ -4302,7 +4315,6 @@ GameObject:
   - component: {fileID: 2042449489}
   - component: {fileID: 2042449488}
   - component: {fileID: 2042449487}
-  - component: {fileID: 2042449490}
   m_Layer: 5
   m_Name: SettingsPanel
   m_TagString: Untagged
@@ -4371,20 +4383,6 @@ RectTransform:
   m_AnchoredPosition: {x: -37.999817, y: 22.26207}
   m_SizeDelta: {x: -748.6089, y: -391.2202}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2042449490
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2042449486}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e428453827654e2468606d8c5f9ad6ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  volumeSlider: {fileID: 1826216713}
-  graphicsDropdown: {fileID: 547992276}
 --- !u!1 &2114708908
 GameObject:
   m_ObjectHideFlags: 0
@@ -4606,4 +4604,3 @@ SceneRoots:
   - {fileID: 971467584}
   - {fileID: 976675254}
   - {fileID: 1351771781}
-  - {fileID: 1935154750}
