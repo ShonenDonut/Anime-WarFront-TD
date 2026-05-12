@@ -61,6 +61,7 @@ public class GameManager : MonoBehaviour
 
         UpdateHUD();
     }
+    
 
     // =========================
     // ADDED:
@@ -72,6 +73,22 @@ public class GameManager : MonoBehaviour
         {
             ToggleSpeed();
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (!isPaused) PauseGame();
+            else
+            {
+                UnPauseGame();
+            }
+        }
+    }
+
+    void UnPauseGame()
+    {
+        if(pausePanel != null) pausePanel.SetActive(false);
+        Time.timeScale = 1f;
+        isPaused = false;
     }
 
     // =========================
@@ -199,7 +216,7 @@ public class GameManager : MonoBehaviour
     {
         // UNCHANGED
         Time.timeScale = 1f;
-        SceneManager.LoadScene("Gameplay");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void ExitToMainMenu()
