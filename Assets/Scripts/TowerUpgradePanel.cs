@@ -56,7 +56,8 @@ public class TowerUpgradePanel : MonoBehaviour
     {
         if (GameManager.Instance == null) return;
         if (GameManager.Instance.currency < damageUpgradeCost) return;
-
+        if(!_selectedTower) return;
+        
         GameManager.Instance.SpendCurrency(damageUpgradeCost);
 
         /*Tower[] towers = FindObjectsOfType<Tower>();
@@ -64,7 +65,6 @@ public class TowerUpgradePanel : MonoBehaviour
         {
             tower.damage += 2;
         }*/
-        if (!_selectedTower) return;
         _selectedTower.damage += damageIncrease;
 
         RefreshUI();
@@ -74,7 +74,9 @@ public class TowerUpgradePanel : MonoBehaviour
     {
         if (GameManager.Instance == null) return;
         if (GameManager.Instance.currency < fireRateUpgradeCost) return;
-
+        if(!_selectedTower) return;
+        
+        
         GameManager.Instance.SpendCurrency(fireRateUpgradeCost);
 
         /*Tower[] towers = FindObjectsOfType<Tower>();
@@ -83,7 +85,6 @@ public class TowerUpgradePanel : MonoBehaviour
             tower.fireRate += 0.5f;
         }*/
         
-        if(!_selectedTower) return;
         _selectedTower.fireRate += fireRateIncrease;
 
         RefreshUI();
